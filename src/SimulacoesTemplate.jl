@@ -1,5 +1,5 @@
 module SimulacoesTemplate
 
-# Write your package code here.
-
+  f(x)=2*x + 1
+  export f
 end
